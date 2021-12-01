@@ -7,6 +7,6 @@
   - Install deps
     - `vcpkg install gtest --triplet=x64-windows`
   - Integrate install
-  -   `vcpkg integrate install`  
+    - `vcpkg integrate install`  
 
 
