@@ -1,6 +1,6 @@
 ## Notes
 
-- This is based on this stackoverflow [article](https://stackoverflow.com/questions/56511117/google-test-with-visual-studio-2019-and-cmake)
+- This is based on this stackoverflow [article](https://stackoverflow.com/questions/53583286/cmake-file-for-integrated-visual-studio-unit-testing/53585782)
 
 ### Acquire Dependencies using vcpkg
 - Download [vcpkg](https://vcpkg.io/en/getting-started.html)
